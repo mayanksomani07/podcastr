@@ -15,6 +15,10 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'dynamic-leopard-733.convex.cloud'
+      },
+      {
+        protocol: 'https',
         hostname: 'img.clerk.com'
       },
     ]
